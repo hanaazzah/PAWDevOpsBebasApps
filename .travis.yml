@@ -1,4 +1,4 @@
-#untuk travis
+#untuk travis cara-caranya liat di documentation travis
 sudo: required
 dist: trusty
 language: php
